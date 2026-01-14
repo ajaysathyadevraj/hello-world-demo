@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-demo",
+  "version": "1.0.0",
+  "description": "Project to demonstarte HTML skill",
+  "homepage": "https://github.com/ajaysathyadevraj/hello-world-demo#readme",
+  "bugs": {
+    "url": "https://github.com/ajaysathyadevraj/hello-world-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaysathyadevraj/hello-world-demo.git"
+  },
+  "license": "ISC",
+  "author": "Ajay Sathya Devraj",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
